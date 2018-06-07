@@ -1,0 +1,14 @@
+C:\Documents\Development\Premium\Trunk\Premium.App\bin\Debug\netcoreapp2.0\Premium.App.deps.json
+C:\Documents\Development\Premium\Trunk\Premium.App\bin\Debug\netcoreapp2.0\Premium.App.runtimeconfig.json
+C:\Documents\Development\Premium\Trunk\Premium.App\bin\Debug\netcoreapp2.0\Premium.App.runtimeconfig.dev.json
+C:\Documents\Development\Premium\Trunk\Premium.App\bin\Debug\netcoreapp2.0\Premium.App.dll
+C:\Documents\Development\Premium\Trunk\Premium.App\bin\Debug\netcoreapp2.0\Premium.App.pdb
+C:\Documents\Development\Premium\Trunk\Premium.App\obj\Debug\netcoreapp2.0\Premium.App.csprojAssemblyReference.cache
+C:\Documents\Development\Premium\Trunk\Premium.App\obj\Debug\netcoreapp2.0\Premium.App.csproj.CoreCompileInputs.cache
+C:\Documents\Development\Premium\Trunk\Premium.App\obj\Debug\netcoreapp2.0\Premium.App.AssemblyInfoInputs.cache
+C:\Documents\Development\Premium\Trunk\Premium.App\obj\Debug\netcoreapp2.0\Premium.App.AssemblyInfo.cs
+C:\Documents\Development\Premium\Trunk\Premium.App\obj\Debug\netcoreapp2.0\Premium.App.dll
+C:\Documents\Development\Premium\Trunk\Premium.App\obj\Debug\netcoreapp2.0\Premium.App.pdb
+C:\Documents\Development\Premium\Trunk\Premium.App\bin\Debug\netcoreapp2.0\Premium.Services.dll
+C:\Documents\Development\Premium\Trunk\Premium.App\bin\Debug\netcoreapp2.0\Premium.Services.pdb
+C:\Documents\Development\Premium\Trunk\Premium.App\obj\Debug\netcoreapp2.0\Premium.App.csproj.CopyComplete

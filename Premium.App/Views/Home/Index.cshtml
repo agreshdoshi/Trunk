@@ -1,0 +1,41 @@
+﻿@model User
+
+
+@{
+	ViewData["Title"] = "Generate Premium";
+}
+
+
+<form asp-action="GeneratePremium">
+	<div class="form-horizontal">
+		<h3>Please enter the details below to Generate Premium!!</h3>
+		<hr />
+		<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+		<div class="form-group">
+			<label asp-for="Name" class="col-md-2 control-label"></label>
+			<div class="col-md-10">
+				<input asp-for="Name" class="form-control"  />
+				<span asp-validation-for="Name" class="text-danger" ></span>
+			</div>
+		</div>
+		<div class="form-group">
+			<label asp-for="Gender" class="col-md-2 control-label"></label>
+			<div class="col-md-10">
+				<select asp-for="Gender" asp-items="Html.GetEnumSelectList<Gender>()" class="form-control"></select>
+				<span asp-validation-for="Gender" class="text-danger"></span>
+			</div>
+		</div>
+		<div class="form-group">
+			<label asp-for="DOB" class="col-md-2 control-label"></label>
+			<div class="col-md-10">
+				<input type="date" asp-for="DOB" class="form-control" />
+				<span asp-validation-for="DOB" class="text-danger"></span>
+			</div>
+		</div>
+		<div class="form-group">
+			<div class="col-md-offset-2 col-md-10">
+				<input type="submit" value="Generate Premium" class="btn btn-default" />
+			</div>
+		</div>
+	</div>
+</form>
